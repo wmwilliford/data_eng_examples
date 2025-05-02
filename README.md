@@ -1,2 +1,2 @@
-# sql_examples
-Random sql code
+# code examples
+Random sql & python code
